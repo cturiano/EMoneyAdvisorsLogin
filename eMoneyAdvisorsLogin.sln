@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eMoneyAdvisorsLogin", "eMoneyAdvisorsLogin\eMoneyAdvisorsLogin.csproj", "{DAB4E944-6B75-4F4F-BFCF-3BBB3CC39C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eMoneyAdvisorsLogin.Tests", "eMoneyAdvisorsLogin.Tests\eMoneyAdvisorsLogin.Tests.csproj", "{6762AD0B-7482-429C-96B3-7E0390EB33F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB4E944-6B75-4F4F-BFCF-3BBB3CC39C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB4E944-6B75-4F4F-BFCF-3BBB3CC39C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB4E944-6B75-4F4F-BFCF-3BBB3CC39C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB4E944-6B75-4F4F-BFCF-3BBB3CC39C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6762AD0B-7482-429C-96B3-7E0390EB33F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6762AD0B-7482-429C-96B3-7E0390EB33F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6762AD0B-7482-429C-96B3-7E0390EB33F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6762AD0B-7482-429C-96B3-7E0390EB33F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC3FCFC-6C5E-4FFC-8E73-580E68B55178}
+	EndGlobalSection
+EndGlobal
